@@ -1,0 +1,7 @@
+[OLE DB Destination [39]] Error: SSIS Error Code DTS_E_OLEDBERROR.  An OLE DB error has occurred. Error code: 0x80004005.
+An OLE DB record is available.  Source: "Microsoft OLE DB Provider for SQL Server"  Hresult: 0x80004005  Description: "The statement has been terminated.".
+An OLE DB record is available.  Source: "Microsoft OLE DB Provider for SQL Server"  Hresult: 0x80004005  Description: "Cannot insert the value NULL into column 'tac', table 'ETL_Telecom.dbo.fact_transaction'; column does not allow nulls. INSERT fails.".
+
+
+
+

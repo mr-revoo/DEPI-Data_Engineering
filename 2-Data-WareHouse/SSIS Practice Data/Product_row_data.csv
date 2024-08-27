@@ -1,0 +1,897 @@
+ProductID,ProductName,VendorID,Color,Size,Price,Stock
+1,Polo Collar T-shirt,Alcis,Black,S,599,13
+2,Polo Collar T-shirt,Alcis,Black,M,599,49
+3,Polo Collar T-shirt,Alcis,Black,L,599,96
+4,Polo Collar T-shirt,Alcis,Black,XL,599,14
+5,Polo Collar T-shirt,Alcis,Blue,S,599,91
+6,Polo Collar T-shirt,Alcis,Blue,M,599,24
+7,Polo Collar T-shirt,Alcis,Blue,L,599,49
+8,Polo Collar T-shirt,Alcis,Blue,XL,599,58
+9,Polo Collar T-shirt,Alcis,Green,S,599,55
+10,Polo Collar T-shirt,Alcis,Green,M,599,84
+11,Polo Collar T-shirt,Alcis,Green,L,599,70
+12,Polo Collar T-shirt,Alcis,Green,XL,599,83
+13,Polo Collar T-shirt,Alcis,Navy Blue,S,649,43
+14,Polo Collar T-shirt,Alcis,Navy Blue,M,649,49
+15,Polo Collar T-shirt,Alcis,Navy Blue,L,649,75
+16,Polo Collar T-shirt,Alcis,Navy Blue,XL,649,9
+17,Polo Collar T-shirt,Alcis,Red,S,499,38
+18,Polo Collar T-shirt,Alcis,Red,M,499,28
+19,Polo Collar T-shirt,Alcis,Red,L,499,86
+20,Polo Collar T-shirt,Alcis,Red,XL,499,19
+21,Polo Collar T-shirt,Alcis,White,S,599,23
+22,Polo Collar T-shirt,Alcis,White,M,599,28
+23,Polo Collar T-shirt,Alcis,White,L,599,38
+24,Polo Collar T-shirt,Alcis,White,XL,599,96
+25,Polo Collar T-shirt,Alcis,Yellow,S,699,62
+26,Polo Collar T-shirt,Alcis,Yellow,M,699,94
+27,Polo Collar T-shirt,Alcis,Yellow,L,699,89
+28,Polo Collar T-shirt,Alcis,Yellow,XL,699,0
+29,Round-Neck T-shirt,Alcis,Black,S,749,20
+30,Round-Neck T-shirt,Alcis,Black,M,499,40
+31,Round-Neck T-shirt,Alcis,Black,L,749,71
+32,Round-Neck T-shirt,Alcis,Black,XL,499,71
+33,Round-Neck T-shirt,Alcis,Black,S,749,52
+34,Round-Neck T-shirt,Alcis,Black,M,499,48
+35,Round-Neck T-shirt,Alcis,Black,L,749,2
+36,Round-Neck T-shirt,Alcis,Black,XL,499,24
+37,Round-Neck T-shirt,Alcis,Blue,S,749,12
+38,Round-Neck T-shirt,Alcis,Blue,M,499,98
+39,Round-Neck T-shirt,Alcis,Blue,L,749,4
+40,Round-Neck T-shirt,Alcis,Blue,XL,499,96
+41,Round-Neck T-shirt,Alcis,Blue,S,749,41
+42,Round-Neck T-shirt,Alcis,Blue,M,499,76
+43,Round-Neck T-shirt,Alcis,Blue,L,749,28
+44,Round-Neck T-shirt,Alcis,Blue,XL,499,83
+45,Round-Neck T-shirt,Alcis,Green,S,479,41
+46,Round-Neck T-shirt,Alcis,Green,M,599,28
+47,Round-Neck T-shirt,Alcis,Green,L,479,34
+48,Round-Neck T-shirt,Alcis,Green,XL,599,95
+49,Round-Neck T-shirt,Alcis,Green,S,479,27
+50,Round-Neck T-shirt,Alcis,Green,M,599,42
+51,Round-Neck T-shirt,Alcis,Green,L,479,31
+52,Round-Neck T-shirt,Alcis,Green,XL,599,58
+53,Round-Neck T-shirt,Alcis,Grey,S,599,34
+54,Round-Neck T-shirt,Alcis,Grey,M,599,70
+55,Round-Neck T-shirt,Alcis,Grey,L,599,85
+56,Round-Neck T-shirt,Alcis,Grey,XL,599,76
+57,Round-Neck T-shirt,Alcis,Maroon,S,599,54
+58,Round-Neck T-shirt,Alcis,Maroon,M,599,53
+59,Round-Neck T-shirt,Alcis,Maroon,L,599,87
+60,Round-Neck T-shirt,Alcis,Maroon,XL,599,33
+61,Round-Neck T-shirt,Alcis,Navy Blue,S,599,69
+62,Round-Neck T-shirt,Alcis,Navy Blue,M,599,12
+63,Round-Neck T-shirt,Alcis,Navy Blue,L,599,14
+64,Round-Neck T-shirt,Alcis,Navy Blue,XL,599,85
+65,Round-Neck T-shirt,Alcis,Orange,S,449,2
+66,Round-Neck T-shirt,Alcis,Orange,M,449,96
+67,Round-Neck T-shirt,Alcis,Orange,L,449,62
+68,Round-Neck T-shirt,Alcis,Orange,XL,449,46
+69,Round-Neck T-shirt,Alcis,,S,449,59
+70,Round-Neck T-shirt,Alcis,,M,449,82
+71,Round-Neck T-shirt,Alcis,,L,449,22
+72,Round-Neck T-shirt,Alcis,,XL,449,50
+73,Round-Neck T-shirt,Alcis,White,S,899,14
+74,Round-Neck T-shirt,Alcis,White,M,899,32
+75,Round-Neck T-shirt,Alcis,White,L,899,2
+76,Round-Neck T-shirt,Alcis,White,XL,899,10
+77,Running Jacket,Alcis,Blue,S,1759,97
+78,Running Jacket,Alcis,Blue,M,1759,98
+79,Running Jacket,Alcis,Blue,L,1759,94
+80,Running Jacket,Alcis,Blue,XL,1759,76
+81,Running Jacket,Alcis,Grey,S,1759,90
+82,Running Jacket,Alcis,Grey,M,1759,35
+83,Running Jacket,Alcis,Grey,L,1759,34
+84,Running Jacket,Alcis,Grey,XL,1759,54
+85,Running Jacket,Alcis,Maroon,S,1519,22
+86,Running Jacket,Alcis,Maroon,M,1519,44
+87,Running Jacket,Alcis,Maroon,L,1519,89
+88,Running Jacket,Alcis,Maroon,XL,1519,80
+89,V-Neck T-shirt,Alcis,Black,S,499,77
+90,V-Neck T-shirt,Alcis,Black,M,499,36
+91,V-Neck T-shirt,Alcis,Black,L,499,65
+92,V-Neck T-shirt,Alcis,Black,XL,499,84
+93,V-Neck T-shirt,Alcis,Blue,S,449,36
+94,V-Neck T-shirt,Alcis,Blue,M,449,35
+95,V-Neck T-shirt,Alcis,Blue,L,449,30
+96,V-Neck T-shirt,Alcis,Blue,XL,449,90
+97,V-Neck T-shirt,Alcis,Grey,S,449,98
+98,V-Neck T-shirt,Alcis,Grey,M,449,48
+99,V-Neck T-shirt,Alcis,Grey,L,449,25
+100,V-Neck T-shirt,Alcis,Grey,XL,449,98
+101,Casual Shirt,Basics,Black,S,1399,88
+102,Casual Shirt,Basics,Black,M,1399,86
+103,Casual Shirt,Basics,Black,L,1399,89
+104,Casual Shirt,Basics,Black,XL,1399,77
+105,Casual Shirt,Basics,Blue,S,1469,16
+106,Casual Shirt,Basics,Blue,M,1469,53
+107,Casual Shirt,Basics,Blue,L,1469,79
+108,Casual Shirt,Basics,Blue,XL,1469,13
+109,Casual Shirt,Basics,Brown,S,1469,94
+110,Casual Shirt,Basics,Brown,M,1469,34
+111,Casual Shirt,Basics,Brown,L,1469,62
+112,Casual Shirt,Basics,Brown,XL,1469,79
+113,Casual Shirt,Basics,Green,S,1399,70
+114,Casual Shirt,Basics,Green,M,1399,42
+115,Casual Shirt,Basics,Green,L,1399,87
+116,Casual Shirt,Basics,Green,XL,1399,75
+117,Casual Shirt,Basics,Khaki,S,1329,74
+118,Casual Shirt,Basics,Khaki,M,1329,76
+119,Casual Shirt,Basics,Khaki,L,1329,87
+120,Casual Shirt,Basics,Khaki,XL,1329,42
+121,Casual Shirt,Basics,Maroon,S,1609,5
+122,Casual Shirt,Basics,Maroon,M,1609,88
+123,Casual Shirt,Basics,Maroon,L,1609,83
+124,Casual Shirt,Basics,Maroon,XL,1609,5
+125,Casual Shirt,Basics,Navy Blue,S,1399,43
+126,Casual Shirt,Basics,Navy Blue,M,1399,98
+127,Casual Shirt,Basics,Navy Blue,L,1399,51
+128,Casual Shirt,Basics,Navy Blue,XL,1399,44
+129,Casual Shirt,Basics,Orange,S,1749,99
+130,Casual Shirt,Basics,Orange,M,1749,78
+131,Casual Shirt,Basics,Orange,L,1749,77
+132,Casual Shirt,Basics,Orange,XL,1749,54
+133,Casual Shirt,Basics,Pink,S,1469,90
+134,Casual Shirt,Basics,Pink,M,1469,32
+135,Casual Shirt,Basics,Pink,L,1469,80
+136,Casual Shirt,Basics,Pink,XL,1469,30
+137,Casual Shirt,Basics,Red,S,1399,34
+138,Casual Shirt,Basics,Red,M,1399,76
+139,Casual Shirt,Basics,Red,L,1399,7
+140,Casual Shirt,Basics,Red,XL,1399,27
+141,Casual Shirt,Basics,White,S,1259,62
+142,Casual Shirt,Basics,White,M,1259,71
+143,Casual Shirt,Basics,White,L,1259,91
+144,Casual Shirt,Basics,White,XL,1259,42
+145,Casual Shirt,Basics,Yellow,S,1469,17
+146,Casual Shirt,Basics,Yellow,M,1469,96
+147,Casual Shirt,Basics,Yellow,L,1469,8
+148,Casual Shirt,Basics,Yellow,XL,1469,6
+149,Regular Trousers,Basics,Beige,S,1539,64
+150,Regular Trousers,Basics,Beige,M,1539,75
+151,Regular Trousers,Basics,Beige,L,1539,5
+152,Regular Trousers,Basics,Beige,XL,1539,32
+153,Regular Trousers,Basics,Black,S,1539,50
+154,Regular Trousers,Basics,Black,M,1539,54
+155,Regular Trousers,Basics,Black,L,1539,44
+156,Regular Trousers,Basics,Black,XL,1539,87
+157,Regular Trousers,Basics,Blue,S,1679,24
+158,Regular Trousers,Basics,Blue,M,1679,57
+159,Regular Trousers,Basics,Blue,L,1679,95
+160,Regular Trousers,Basics,Blue,XL,1679,58
+161,Regular Trousers,Basics,Brown,S,1724,0
+162,Regular Trousers,Basics,Brown,M,1724,88
+163,Regular Trousers,Basics,Brown,L,1724,33
+164,Regular Trousers,Basics,Brown,XL,1724,58
+165,Regular Trousers,Basics,Green,S,1469,98
+166,Regular Trousers,Basics,Green,M,1469,93
+167,Regular Trousers,Basics,Green,L,1469,23
+168,Regular Trousers,Basics,Green,XL,1469,53
+169,Regular Trousers,Basics,Khaki,S,1399,52
+170,Regular Trousers,Basics,Khaki,M,1399,36
+171,Regular Trousers,Basics,Khaki,L,1399,60
+172,Regular Trousers,Basics,Khaki,XL,1399,11
+173,Regular Trousers,Basics,Maroon,S,1609,6
+174,Regular Trousers,Basics,Maroon,M,1609,32
+175,Regular Trousers,Basics,Maroon,L,1609,95
+176,Regular Trousers,Basics,Maroon,XL,1609,62
+177,Regular Trousers,Basics,Navy Blue,S,1724,15
+178,Regular Trousers,Basics,Navy Blue,M,1724,99
+179,Regular Trousers,Basics,Navy Blue,L,1724,74
+180,Regular Trousers,Basics,Navy Blue,XL,1724,60
+181,Regular Trousers,Basics,,S,1399,69
+182,Regular Trousers,Basics,,M,1399,82
+183,Regular Trousers,Basics,,L,1399,17
+184,Regular Trousers,Basics,,XL,1399,54
+185,Regular Trousers,Basics,Red,S,1399,49
+186,Regular Trousers,Basics,Red,M,1469,42
+187,Regular Trousers,Basics,Red,L,1399,30
+188,Regular Trousers,Basics,Red,XL,1469,54
+189,Regular Trousers,Basics,Red,S,1399,10
+190,Regular Trousers,Basics,Red,M,1469,14
+191,Regular Trousers,Basics,Red,L,1399,32
+192,Regular Trousers,Basics,Red,XL,1469,62
+193,Round-Neck T-shirt,Batman,Black,S,449,54
+194,Round-Neck T-shirt,Batman,Black,M,449,8
+195,Round-Neck T-shirt,Batman,Black,L,449,94
+196,Round-Neck T-shirt,Batman,Black,XL,449,19
+197,Round-Neck T-shirt,Batman,Blue,S,449,37
+198,Round-Neck T-shirt,Batman,Blue,M,449,32
+199,Round-Neck T-shirt,Batman,Blue,L,449,58
+200,Round-Neck T-shirt,Batman,Blue,XL,449,32
+201,Round-Neck T-shirt,Batman,Grey,S,449,4
+202,Round-Neck T-shirt,Batman,Grey,M,449,3
+203,Round-Neck T-shirt,Batman,Grey,L,449,79
+204,Round-Neck T-shirt,Batman,Grey,XL,449,30
+205,Round-Neck T-shirt,Batman,Navy Blue,S,449,4
+206,Round-Neck T-shirt,Batman,Navy Blue,M,449,99
+207,Round-Neck T-shirt,Batman,Navy Blue,L,449,46
+208,Round-Neck T-shirt,Batman,Navy Blue,XL,449,86
+209,Round-Neck T-shirt,Besiva,Black,S,799,3
+210,Round-Neck T-shirt,Besiva,Black,M,799,86
+211,Round-Neck T-shirt,Besiva,Black,L,799,44
+212,Round-Neck T-shirt,Besiva,Black,XL,799,66
+213,Round-Neck T-shirt,Besiva,Green,S,699,16
+214,Round-Neck T-shirt,Besiva,Green,M,699,14
+215,Round-Neck T-shirt,Besiva,Green,L,699,13
+216,Round-Neck T-shirt,Besiva,Green,XL,699,44
+217,Round-Neck T-shirt,Besiva,Pink,S,496,15
+218,Round-Neck T-shirt,Besiva,Pink,M,496,10
+219,Round-Neck T-shirt,Besiva,Pink,L,496,24
+220,Round-Neck T-shirt,Besiva,Pink,XL,496,77
+221,Round-Neck T-shirt,Besiva,Red,S,629,96
+222,Round-Neck T-shirt,Besiva,Red,M,629,56
+223,Round-Neck T-shirt,Besiva,Red,L,629,98
+224,Round-Neck T-shirt,Besiva,Red,XL,629,0
+225,Round-Neck T-shirt,Besiva,White,S,602,81
+226,Round-Neck T-shirt,Besiva,White,M,602,29
+227,Round-Neck T-shirt,Besiva,White,L,602,32
+228,Round-Neck T-shirt,Besiva,White,XL,602,29
+229,Casual Shirt,Calvin Klein,Beige,S,3599,28
+230,Casual Shirt,Calvin Klein,Beige,M,3599,61
+231,Casual Shirt,Calvin Klein,Beige,L,3599,97
+232,Casual Shirt,Calvin Klein,Beige,XL,3599,8
+233,Casual Shirt,Calvin Klein,Black,S,3024,14
+234,Casual Shirt,Calvin Klein,Black,M,3024,4
+235,Casual Shirt,Calvin Klein,Black,L,3024,20
+236,Casual Shirt,Calvin Klein,Black,XL,3024,16
+237,Casual Shirt,Calvin Klein,Blue,S,2749,52
+238,Casual Shirt,Calvin Klein,Blue,M,2749,56
+239,Casual Shirt,Calvin Klein,Blue,L,2749,49
+240,Casual Shirt,Calvin Klein,Blue,XL,2749,8
+241,Casual Shirt,Calvin Klein,Green,S,2749,28
+242,Casual Shirt,Calvin Klein,Green,M,2749,66
+243,Casual Shirt,Calvin Klein,Green,L,2749,79
+244,Casual Shirt,Calvin Klein,Green,XL,2749,58
+245,Casual Shirt,Calvin Klein,Khaki,S,6599,35
+246,Casual Shirt,Calvin Klein,Khaki,M,6599,64
+247,Casual Shirt,Calvin Klein,Khaki,L,6599,44
+248,Casual Shirt,Calvin Klein,Khaki,XL,6599,63
+249,Casual Shirt,Calvin Klein,Maroon,S,3359,89
+250,Casual Shirt,Calvin Klein,Maroon,M,3359,54
+251,Casual Shirt,Calvin Klein,Maroon,L,3359,1
+252,Casual Shirt,Calvin Klein,Maroon,XL,3359,36
+253,Casual Shirt,Calvin Klein,Navy Blue,S,3599,60
+254,Casual Shirt,Calvin Klein,Navy Blue,M,3599,35
+255,Casual Shirt,Calvin Klein,Navy Blue,L,3599,93
+256,Casual Shirt,Calvin Klein,Navy Blue,XL,3599,3
+257,Casual Shirt,Calvin Klein,Red,S,3599,26
+258,Casual Shirt,Calvin Klein,Red,M,3599,46
+259,Casual Shirt,Calvin Klein,Red,L,3599,2
+260,Casual Shirt,Calvin Klein,Red,XL,3599,41
+261,Casual Shirt,Calvin Klein,White,S,3599,85
+262,Casual Shirt,Calvin Klein,White,M,3599,73
+263,Casual Shirt,Calvin Klein,White,L,3599,14
+264,Casual Shirt,Calvin Klein,White,XL,3599,62
+265,Jeans,Calvin Klein,Black,S,5999,45
+266,Jeans,Calvin Klein,Black,M,5999,26
+267,Jeans,Calvin Klein,Black,L,5999,57
+268,Jeans,Calvin Klein,Black,XL,5999,97
+269,Jeans,Calvin Klein,Blue,S,7799,0
+270,Jeans,Calvin Klein,Blue,M,7799,4
+271,Jeans,Calvin Klein,Blue,L,7799,69
+272,Jeans,Calvin Klein,Blue,XL,7799,60
+273,Jeans,Calvin Klein,Grey,S,4799,10
+274,Jeans,Calvin Klein,Grey,M,4799,81
+275,Jeans,Calvin Klein,Grey,L,4799,14
+276,Jeans,Calvin Klein,Grey,XL,4799,81
+277,Jeans,Calvin Klein,Navy Blue,S,5999,20
+278,Jeans,Calvin Klein,Navy Blue,M,5999,95
+279,Jeans,Calvin Klein,Navy Blue,L,5999,21
+280,Jeans,Calvin Klein,Navy Blue,XL,5999,94
+281,Jeans,Calvin Klein,Red,S,7199,0
+282,Jeans,Calvin Klein,Red,M,7199,58
+283,Jeans,Calvin Klein,Red,L,7199,35
+284,Jeans,Calvin Klein,Red,XL,7199,3
+285,Jeans,Calvin Klein,White,S,4799,31
+286,Jeans,Calvin Klein,White,M,4799,41
+287,Jeans,Calvin Klein,White,L,4799,32
+288,Jeans,Calvin Klein,White,XL,4799,24
+289,Polo Collar T-shirt,Calvin Klein,Black,S,4599,89
+290,Polo Collar T-shirt,Calvin Klein,Black,M,4599,37
+291,Polo Collar T-shirt,Calvin Klein,Black,L,4599,18
+292,Polo Collar T-shirt,Calvin Klein,Black,XL,4599,39
+293,Polo Collar T-shirt,Calvin Klein,Blue,S,2759,74
+294,Polo Collar T-shirt,Calvin Klein,Blue,M,2759,16
+295,Polo Collar T-shirt,Calvin Klein,Blue,L,2759,43
+296,Polo Collar T-shirt,Calvin Klein,Blue,XL,2759,84
+297,Polo Collar T-shirt,Calvin Klein,Green,S,3999,29
+298,Polo Collar T-shirt,Calvin Klein,Green,M,3999,86
+299,Polo Collar T-shirt,Calvin Klein,Green,L,3999,94
+300,Polo Collar T-shirt,Calvin Klein,Green,XL,3999,49
+301,Polo Collar T-shirt,Calvin Klein,Grey,S,2399,17
+302,Polo Collar T-shirt,Calvin Klein,Grey,M,2399,88
+303,Polo Collar T-shirt,Calvin Klein,Grey,L,2399,39
+304,Polo Collar T-shirt,Calvin Klein,Grey,XL,2399,58
+305,Polo Collar T-shirt,Calvin Klein,Pink,S,2759,9
+306,Polo Collar T-shirt,Calvin Klein,Pink,M,2759,80
+307,Polo Collar T-shirt,Calvin Klein,Pink,L,2759,21
+308,Polo Collar T-shirt,Calvin Klein,Pink,XL,2759,83
+309,Polo Collar T-shirt,Calvin Klein,Purple,S,2999,26
+310,Polo Collar T-shirt,Calvin Klein,Purple,M,2999,33
+311,Polo Collar T-shirt,Calvin Klein,Purple,L,2999,91
+312,Polo Collar T-shirt,Calvin Klein,Purple,XL,2999,53
+313,Polo Collar T-shirt,Calvin Klein,Red,S,3999,24
+314,Polo Collar T-shirt,Calvin Klein,Red,M,3999,48
+315,Polo Collar T-shirt,Calvin Klein,Red,L,3999,75
+316,Polo Collar T-shirt,Calvin Klein,Red,XL,3999,79
+317,Polo Collar T-shirt,Calvin Klein,White,S,2999,67
+318,Polo Collar T-shirt,Calvin Klein,White,M,2999,3
+319,Polo Collar T-shirt,Calvin Klein,White,L,2999,25
+320,Polo Collar T-shirt,Calvin Klein,White,XL,2999,87
+321,Round-Neck T-shirt,Calvin Klein,Black,S,2999,29
+322,Round-Neck T-shirt,Calvin Klein,Black,M,2999,75
+323,Round-Neck T-shirt,Calvin Klein,Black,L,2999,62
+324,Round-Neck T-shirt,Calvin Klein,Black,XL,2999,85
+325,Round-Neck T-shirt,Calvin Klein,Blue,S,3299,48
+326,Round-Neck T-shirt,Calvin Klein,Blue,M,3299,59
+327,Round-Neck T-shirt,Calvin Klein,Blue,L,3299,68
+328,Round-Neck T-shirt,Calvin Klein,Blue,XL,3299,40
+329,Round-Neck T-shirt,Calvin Klein,Green,S,1539,67
+330,Round-Neck T-shirt,Calvin Klein,Green,M,1539,58
+331,Round-Neck T-shirt,Calvin Klein,Green,L,1539,4
+332,Round-Neck T-shirt,Calvin Klein,Green,XL,1539,60
+333,Round-Neck T-shirt,Calvin Klein,Grey,S,2089,15
+334,Round-Neck T-shirt,Calvin Klein,Grey,M,2089,49
+335,Round-Neck T-shirt,Calvin Klein,Grey,L,2089,90
+336,Round-Neck T-shirt,Calvin Klein,Grey,XL,2089,61
+337,Round-Neck T-shirt,Calvin Klein,Navy Blue,S,1799,89
+338,Round-Neck T-shirt,Calvin Klein,Navy Blue,M,1799,98
+339,Round-Neck T-shirt,Calvin Klein,Navy Blue,L,1799,51
+340,Round-Neck T-shirt,Calvin Klein,Navy Blue,XL,1799,42
+341,Round-Neck T-shirt,Calvin Klein,Red,S,2199,10
+342,Round-Neck T-shirt,Calvin Klein,Red,M,2199,62
+343,Round-Neck T-shirt,Calvin Klein,Red,L,2199,33
+344,Round-Neck T-shirt,Calvin Klein,Red,XL,2199,41
+345,Round-Neck T-shirt,Calvin Klein,White,S,3299,0
+346,Round-Neck T-shirt,Calvin Klein,White,M,3299,40
+347,Round-Neck T-shirt,Calvin Klein,White,L,3299,28
+348,Round-Neck T-shirt,Calvin Klein,White,XL,3299,0
+349,Casual Shirt,ColorPlus,Beige,S,699,25
+350,Casual Shirt,ColorPlus,Beige,M,699,71
+351,Casual Shirt,ColorPlus,Beige,L,699,11
+352,Casual Shirt,ColorPlus,Beige,XL,699,35
+353,Casual Shirt,ColorPlus,Black,S,1119,55
+354,Casual Shirt,ColorPlus,Black,M,1119,40
+355,Casual Shirt,ColorPlus,Black,L,1119,81
+356,Casual Shirt,ColorPlus,Black,XL,1119,28
+357,Casual Shirt,ColorPlus,Blue,S,1349,76
+358,Casual Shirt,ColorPlus,Blue,M,1349,40
+359,Casual Shirt,ColorPlus,Blue,L,1349,36
+360,Casual Shirt,ColorPlus,Blue,XL,1349,32
+361,Casual Shirt,ColorPlus,Brown,S,804,39
+362,Casual Shirt,ColorPlus,Brown,M,804,91
+363,Casual Shirt,ColorPlus,Brown,L,804,87
+364,Casual Shirt,ColorPlus,Brown,XL,804,58
+365,Casual Shirt,ColorPlus,Green,S,1124,29
+366,Casual Shirt,ColorPlus,Green,M,1124,46
+367,Casual Shirt,ColorPlus,Green,L,1124,1
+368,Casual Shirt,ColorPlus,Green,XL,1124,58
+369,Casual Shirt,ColorPlus,Grey,S,1279,74
+370,Casual Shirt,ColorPlus,Grey,M,1279,60
+371,Casual Shirt,ColorPlus,Grey,L,1279,52
+372,Casual Shirt,ColorPlus,Grey,XL,1279,38
+373,Casual Shirt,ColorPlus,Maroon,S,874,40
+374,Casual Shirt,ColorPlus,Maroon,M,874,76
+375,Casual Shirt,ColorPlus,Maroon,L,874,23
+376,Casual Shirt,ColorPlus,Maroon,XL,874,44
+377,Casual Shirt,ColorPlus,,S,804,44
+378,Casual Shirt,ColorPlus,,M,804,19
+379,Casual Shirt,ColorPlus,,L,804,79
+380,Casual Shirt,ColorPlus,,XL,804,92
+381,Casual Shirt,ColorPlus,,S,959,48
+382,Casual Shirt,ColorPlus,,M,959,84
+383,Casual Shirt,ColorPlus,,L,959,96
+384,Casual Shirt,ColorPlus,,XL,959,26
+385,Casual Shirt,ColorPlus,Orange,S,1349,76
+386,Casual Shirt,ColorPlus,Orange,M,1349,36
+387,Casual Shirt,ColorPlus,Orange,L,1349,54
+388,Casual Shirt,ColorPlus,Orange,XL,1349,27
+389,Casual Shirt,ColorPlus,Pink,S,1214,33
+390,Casual Shirt,ColorPlus,Pink,M,1214,67
+391,Casual Shirt,ColorPlus,Pink,L,1214,0
+392,Casual Shirt,ColorPlus,Pink,XL,1214,25
+393,Casual Shirt,ColorPlus,Red,S,1239,67
+394,Casual Shirt,ColorPlus,Red,M,1239,73
+395,Casual Shirt,ColorPlus,Red,L,1239,91
+396,Casual Shirt,ColorPlus,Red,XL,1239,58
+397,Casual Shirt,ColorPlus,White,S,874,32
+398,Casual Shirt,ColorPlus,White,M,874,44
+399,Casual Shirt,ColorPlus,White,L,874,17
+400,Casual Shirt,ColorPlus,White,XL,874,7
+401,Casual Shirt,ColorPlus,Yellow,S,959,50
+402,Casual Shirt,ColorPlus,Yellow,M,959,82
+403,Casual Shirt,ColorPlus,Yellow,L,959,27
+404,Casual Shirt,ColorPlus,Yellow,XL,959,39
+405,Formal Shirt,ColorPlus,Blue,S,1124,15
+406,Formal Shirt,ColorPlus,Blue,M,1124,4
+407,Formal Shirt,ColorPlus,Blue,L,1124,1
+408,Formal Shirt,ColorPlus,Blue,XL,1124,41
+409,Formal Shirt,ColorPlus,Grey,S,999,98
+410,Formal Shirt,ColorPlus,Grey,M,999,38
+411,Formal Shirt,ColorPlus,Grey,L,999,1
+412,Formal Shirt,ColorPlus,Grey,XL,999,33
+413,Formal Trousers,ColorPlus,Blue,S,1199,92
+414,Formal Trousers,ColorPlus,Blue,M,1199,77
+415,Formal Trousers,ColorPlus,Blue,L,1199,40
+416,Formal Trousers,ColorPlus,Blue,XL,1199,86
+417,Formal Trousers,ColorPlus,Green,S,999,96
+418,Formal Trousers,ColorPlus,Green,M,999,98
+419,Formal Trousers,ColorPlus,Green,L,999,27
+420,Formal Trousers,ColorPlus,Green,XL,999,92
+421,Regular Trousers,ColorPlus,Beige,S,999,83
+422,Regular Trousers,ColorPlus,Beige,M,999,3
+423,Regular Trousers,ColorPlus,Beige,L,999,81
+424,Regular Trousers,ColorPlus,Beige,XL,999,47
+425,Regular Trousers,ColorPlus,Black,S,804,100
+426,Regular Trousers,ColorPlus,Black,M,804,9
+427,Regular Trousers,ColorPlus,Black,L,804,92
+428,Regular Trousers,ColorPlus,Black,XL,804,100
+429,Regular Trousers,ColorPlus,Green,S,1049,34
+430,Regular Trousers,ColorPlus,Green,M,1049,87
+431,Regular Trousers,ColorPlus,Green,L,1049,52
+432,Regular Trousers,ColorPlus,Green,XL,1049,39
+433,Regular Trousers,ColorPlus,Navy Blue,S,1034,3
+434,Regular Trousers,ColorPlus,Navy Blue,M,1034,29
+435,Regular Trousers,ColorPlus,Navy Blue,L,1034,62
+436,Regular Trousers,ColorPlus,Navy Blue,XL,1034,84
+437,Regular Trousers,ColorPlus,White,S,1034,10
+438,Regular Trousers,ColorPlus,White,M,1034,41
+439,Regular Trousers,ColorPlus,White,L,1034,95
+440,Regular Trousers,ColorPlus,White,XL,1034,74
+441,Casual Shirt,IMYOUNG,Blue,S,1299,91
+442,Casual Shirt,IMYOUNG,Blue,M,1299,60
+443,Casual Shirt,IMYOUNG,Blue,L,1299,15
+444,Casual Shirt,IMYOUNG,Blue,XL,1299,7
+445,Casual Shirt,IMYOUNG,Khaki,S,1299,50
+446,Casual Shirt,IMYOUNG,Khaki,M,1299,61
+447,Casual Shirt,IMYOUNG,Khaki,L,1299,93
+448,Casual Shirt,IMYOUNG,Khaki,XL,1299,4
+449,Casual Shirt,IMYOUNG,Orange,S,1299,32
+450,Casual Shirt,IMYOUNG,Orange,M,1299,90
+451,Casual Shirt,IMYOUNG,Orange,L,1299,83
+452,Casual Shirt,IMYOUNG,Orange,XL,1299,34
+453,Casual Shirt,IMYOUNG,Pink,S,1299,93
+454,Casual Shirt,IMYOUNG,Pink,M,1299,22
+455,Casual Shirt,IMYOUNG,Pink,L,1299,99
+456,Casual Shirt,IMYOUNG,Pink,XL,1299,43
+457,Casual Shirt,IMYOUNG,Red,S,1299,69
+458,Casual Shirt,IMYOUNG,Red,M,1299,42
+459,Casual Shirt,IMYOUNG,Red,L,1299,88
+460,Casual Shirt,IMYOUNG,Red,XL,1299,23
+461,Casual Shirt,IMYOUNG,,S,1299,78
+462,Casual Shirt,IMYOUNG,,M,1299,26
+463,Casual Shirt,IMYOUNG,,L,1299,86
+464,Casual Shirt,IMYOUNG,,XL,1299,22
+465,Casual Shirt,IMYOUNG,White,S,1299,8
+466,Casual Shirt,IMYOUNG,White,M,1299,3
+467,Casual Shirt,IMYOUNG,White,L,1299,6
+468,Casual Shirt,IMYOUNG,White,XL,1299,69
+469,Casual Shirt,IMYOUNG,Yellow,S,1299,58
+470,Casual Shirt,IMYOUNG,Yellow,M,1299,86
+471,Casual Shirt,IMYOUNG,Yellow,L,1299,88
+472,Casual Shirt,IMYOUNG,Yellow,XL,1299,10
+473,Round-Neck T-shirt,IMYOUNG,Black,S,699,95
+474,Round-Neck T-shirt,IMYOUNG,Black,M,699,23
+475,Round-Neck T-shirt,IMYOUNG,Black,L,699,100
+476,Round-Neck T-shirt,IMYOUNG,Black,XL,699,64
+477,Round-Neck T-shirt,IMYOUNG,Blue,S,699,8
+478,Round-Neck T-shirt,IMYOUNG,Blue,M,699,75
+479,Round-Neck T-shirt,IMYOUNG,Blue,L,699,56
+480,Round-Neck T-shirt,IMYOUNG,Blue,XL,699,47
+481,Round-Neck T-shirt,IMYOUNG,Maroon,S,699,84
+482,Round-Neck T-shirt,IMYOUNG,Maroon,M,699,73
+483,Round-Neck T-shirt,IMYOUNG,Maroon,L,699,9
+484,Round-Neck T-shirt,IMYOUNG,Maroon,XL,699,23
+485,Round-Neck T-shirt,IMYOUNG,Navy Blue,S,699,96
+486,Round-Neck T-shirt,IMYOUNG,Navy Blue,M,699,96
+487,Round-Neck T-shirt,IMYOUNG,Navy Blue,L,699,28
+488,Round-Neck T-shirt,IMYOUNG,Navy Blue,XL,699,95
+489,Round-Neck T-shirt,IMYOUNG,Red,S,699,67
+490,Round-Neck T-shirt,IMYOUNG,Red,M,699,28
+491,Round-Neck T-shirt,IMYOUNG,Red,L,699,42
+492,Round-Neck T-shirt,IMYOUNG,Red,XL,699,37
+493,Round-Neck T-shirt,IMYOUNG,White,S,699,90
+494,Round-Neck T-shirt,IMYOUNG,White,M,699,93
+495,Round-Neck T-shirt,IMYOUNG,White,L,699,8
+496,Round-Neck T-shirt,IMYOUNG,White,XL,699,17
+497,Round-Neck T-shirt,IMYOUNG,Yellow,S,699,11
+498,Round-Neck T-shirt,IMYOUNG,Yellow,M,699,22
+499,Round-Neck T-shirt,IMYOUNG,Yellow,L,699,37
+500,Round-Neck T-shirt,IMYOUNG,Yellow,XL,699,82
+501,Casual Blazer,Jack & Jones,Beige,S,2399,67
+502,Casual Blazer,Jack & Jones,Beige,M,2399,10
+503,Casual Blazer,Jack & Jones,Beige,L,2399,98
+504,Casual Blazer,Jack & Jones,Beige,XL,2399,2
+505,Casual Blazer,Jack & Jones,Black,S,2924,84
+506,Casual Blazer,Jack & Jones,Black,M,2924,13
+507,Casual Blazer,Jack & Jones,Black,L,2924,80
+508,Casual Blazer,Jack & Jones,Black,XL,2924,7
+509,Casual Shirt,Jack & Jones,Black,S,1119,4
+510,Casual Shirt,Jack & Jones,Black,M,1119,98
+511,Casual Shirt,Jack & Jones,Black,L,1119,29
+512,Casual Shirt,Jack & Jones,Black,XL,1119,27
+513,Casual Shirt,Jack & Jones,Blue,S,749,74
+514,Casual Shirt,Jack & Jones,Blue,M,749,98
+515,Casual Shirt,Jack & Jones,Blue,L,749,73
+516,Casual Shirt,Jack & Jones,Blue,XL,749,80
+517,Casual Shirt,Jack & Jones,Grey,S,1048,86
+518,Casual Shirt,Jack & Jones,Grey,M,1048,9
+519,Casual Shirt,Jack & Jones,Grey,L,1048,58
+520,Casual Shirt,Jack & Jones,Grey,XL,1048,36
+521,Casual Shirt,Jack & Jones,Navy Blue,S,999,49
+522,Casual Shirt,Jack & Jones,Navy Blue,M,999,84
+523,Casual Shirt,Jack & Jones,Navy Blue,L,999,81
+524,Casual Shirt,Jack & Jones,Navy Blue,XL,999,55
+525,Casual Shirt,Jack & Jones,Purple,S,919,63
+526,Casual Shirt,Jack & Jones,Purple,M,919,49
+527,Casual Shirt,Jack & Jones,Purple,L,919,85
+528,Casual Shirt,Jack & Jones,Purple,XL,919,17
+529,Casual Shirt,Jack & Jones,Red,S,2495,29
+530,Casual Shirt,Jack & Jones,Red,M,2495,12
+531,Casual Shirt,Jack & Jones,Red,L,2495,86
+532,Casual Shirt,Jack & Jones,Red,XL,2495,74
+533,Jacket,Jack & Jones,Maroon,S,3499,3
+534,Jacket,Jack & Jones,Maroon,M,3499,1
+535,Jacket,Jack & Jones,Maroon,L,3499,47
+536,Jacket,Jack & Jones,Maroon,XL,3499,39
+537,Jeans,Jack & Jones,Black,S,2599,1
+538,Jeans,Jack & Jones,Black,M,2599,63
+539,Jeans,Jack & Jones,Black,L,2599,67
+540,Jeans,Jack & Jones,Black,XL,2599,60
+541,Jeans,Jack & Jones,Blue,S,1399,86
+542,Jeans,Jack & Jones,Blue,M,1399,82
+543,Jeans,Jack & Jones,Blue,L,1399,19
+544,Jeans,Jack & Jones,Blue,XL,1399,100
+545,Jeans,Jack & Jones,Grey,S,1499,97
+546,Jeans,Jack & Jones,Grey,M,1499,8
+547,Jeans,Jack & Jones,Grey,L,1499,1
+548,Jeans,Jack & Jones,Grey,XL,1499,31
+549,Jeans,Jack & Jones,Navy Blue,S,1599,42
+550,Jeans,Jack & Jones,Navy Blue,M,1599,8
+551,Jeans,Jack & Jones,Navy Blue,L,1599,29
+552,Jeans,Jack & Jones,Navy Blue,XL,1599,93
+553,Polo Collar T-shirt,Jack & Jones,White,S,879,77
+554,Polo Collar T-shirt,Jack & Jones,White,M,879,9
+555,Polo Collar T-shirt,Jack & Jones,White,L,879,39
+556,Polo Collar T-shirt,Jack & Jones,White,XL,879,25
+557,Round-Neck T-shirt,Jack & Jones,Grey,S,1699,40
+558,Round-Neck T-shirt,Jack & Jones,Grey,M,1699,25
+559,Round-Neck T-shirt,Jack & Jones,Grey,L,1699,32
+560,Round-Neck T-shirt,Jack & Jones,Grey,XL,1699,89
+561,Round-Neck T-shirt,Jack & Jones,Yellow,S,599,54
+562,Round-Neck T-shirt,Jack & Jones,Yellow,M,599,80
+563,Round-Neck T-shirt,Jack & Jones,Yellow,L,599,49
+564,Round-Neck T-shirt,Jack & Jones,Yellow,XL,599,58
+565,Jacket,Levis,Brown,S,6999,63
+566,Jacket,Levis,Brown,M,6999,60
+567,Jacket,Levis,Brown,L,6999,62
+568,Jacket,Levis,Brown,XL,6999,43
+569,Jacket,Levis,Green,S,2999,38
+570,Jacket,Levis,Green,M,2999,61
+571,Jacket,Levis,Green,L,2999,8
+572,Jacket,Levis,Green,XL,2999,4
+573,Jacket,Levis,Red,S,5999,36
+574,Jacket,Levis,Red,M,5999,87
+575,Jacket,Levis,Red,L,5999,64
+576,Jacket,Levis,Red,XL,5999,44
+577,Jeans,Levis,Black,S,1799,96
+578,Jeans,Levis,Black,M,1799,33
+579,Jeans,Levis,Black,L,1799,44
+580,Jeans,Levis,Black,XL,1799,73
+581,Jeans,Levis,Blue,S,2039,3
+582,Jeans,Levis,Blue,M,2039,58
+583,Jeans,Levis,Blue,L,2039,47
+584,Jeans,Levis,Blue,XL,2039,96
+585,Jeans,Levis,Grey,S,1649,91
+586,Jeans,Levis,Grey,M,1649,25
+587,Jeans,Levis,Grey,L,1649,26
+588,Jeans,Levis,Grey,XL,1649,18
+589,Jeans,Levis,Navy Blue,S,2039,17
+590,Jeans,Levis,Navy Blue,M,2039,61
+591,Jeans,Levis,Navy Blue,L,2039,0
+592,Jeans,Levis,Navy Blue,XL,2039,97
+593,Jeans,Levis,Red,S,2999,17
+594,Jeans,Levis,Red,M,2999,93
+595,Jeans,Levis,Red,L,2999,80
+596,Jeans,Levis,Red,XL,2999,6
+597,Jeans,Levis,White,S,1799,97
+598,Jeans,Levis,White,M,1799,72
+599,Jeans,Levis,White,L,1799,85
+600,Jeans,Levis,White,XL,1799,15
+601,Casual Shirt,Next Look,Beige,S,599,82
+602,Casual Shirt,Next Look,Beige,M,599,100
+603,Casual Shirt,Next Look,Beige,L,599,86
+604,Casual Shirt,Next Look,Beige,XL,599,30
+605,Casual Shirt,Next Look,Blue,S,549,95
+606,Casual Shirt,Next Look,Blue,M,549,24
+607,Casual Shirt,Next Look,Blue,L,549,77
+608,Casual Shirt,Next Look,Blue,XL,549,11
+609,Casual Shirt,Next Look,Grey,S,649,36
+610,Casual Shirt,Next Look,Grey,M,649,29
+611,Casual Shirt,Next Look,Grey,L,649,34
+612,Casual Shirt,Next Look,Grey,XL,649,74
+613,Casual Shirt,Next Look,Maroon,S,549,12
+614,Casual Shirt,Next Look,Maroon,M,549,81
+615,Casual Shirt,Next Look,Maroon,L,549,94
+616,Casual Shirt,Next Look,Maroon,XL,549,26
+617,Casual Shirt,Next Look,Navy Blue,S,649,58
+618,Casual Shirt,Next Look,Navy Blue,M,649,5
+619,Casual Shirt,Next Look,Navy Blue,L,649,28
+620,Casual Shirt,Next Look,Navy Blue,XL,649,52
+621,Casual Shirt,Next Look,,S,599,53
+622,Casual Shirt,Next Look,,M,599,76
+623,Casual Shirt,Next Look,,L,599,4
+624,Casual Shirt,Next Look,,XL,599,95
+625,Casual Shirt,Next Look,Purple,S,549,9
+626,Casual Shirt,Next Look,Purple,M,549,55
+627,Casual Shirt,Next Look,Purple,L,549,27
+628,Casual Shirt,Next Look,Purple,XL,549,80
+629,Casual Shirt,Next Look,White,S,549,86
+630,Casual Shirt,Next Look,White,M,549,3
+631,Casual Shirt,Next Look,White,L,549,35
+632,Casual Shirt,Next Look,White,XL,549,85
+633,Formal Shirt,Next Look,Black,S,599,1
+634,Formal Shirt,Next Look,Black,M,599,53
+635,Formal Shirt,Next Look,Black,L,599,60
+636,Formal Shirt,Next Look,Black,XL,599,100
+637,Formal Shirt,Next Look,Blue,S,549,13
+638,Formal Shirt,Next Look,Blue,M,549,15
+639,Formal Shirt,Next Look,Blue,L,549,84
+640,Formal Shirt,Next Look,Blue,XL,549,23
+641,Formal Shirt,Next Look,,S,549,95
+642,Formal Shirt,Next Look,,M,549,21
+643,Formal Shirt,Next Look,,L,549,2
+644,Formal Shirt,Next Look,,XL,549,69
+645,Formal Shirt,Next Look,Grey,S,599,42
+646,Formal Shirt,Next Look,Grey,M,599,2
+647,Formal Shirt,Next Look,Grey,L,599,13
+648,Formal Shirt,Next Look,Grey,XL,599,100
+649,Formal Shirt,Next Look,Magenta,S,649,24
+650,Formal Shirt,Next Look,Magenta,M,649,54
+651,Formal Shirt,Next Look,Magenta,L,649,20
+652,Formal Shirt,Next Look,Magenta,XL,649,13
+653,Formal Shirt,Next Look,Maroon,S,549,67
+654,Formal Shirt,Next Look,Maroon,M,549,87
+655,Formal Shirt,Next Look,Maroon,L,549,53
+656,Formal Shirt,Next Look,Maroon,XL,549,73
+657,Formal Shirt,Next Look,Pink,S,599,91
+658,Formal Shirt,Next Look,Pink,M,599,97
+659,Formal Shirt,Next Look,Pink,L,599,61
+660,Formal Shirt,Next Look,Pink,XL,599,69
+661,Formal Shirt,Next Look,Purple,S,549,14
+662,Formal Shirt,Next Look,Purple,M,549,21
+663,Formal Shirt,Next Look,Purple,L,549,100
+664,Formal Shirt,Next Look,Purple,XL,549,81
+665,Formal Shirt,Next Look,Red,S,549,47
+666,Formal Shirt,Next Look,Red,M,549,87
+667,Formal Shirt,Next Look,Red,L,549,12
+668,Formal Shirt,Next Look,Red,XL,549,28
+669,Formal Shirt,Next Look,White,S,549,34
+670,Formal Shirt,Next Look,White,M,549,13
+671,Formal Shirt,Next Look,White,L,549,34
+672,Formal Shirt,Next Look,White,XL,549,59
+673,Polo Collar T-shirt,Next Look,Black,S,503,46
+674,Polo Collar T-shirt,Next Look,Black,M,503,53
+675,Polo Collar T-shirt,Next Look,Black,L,503,74
+676,Polo Collar T-shirt,Next Look,Black,XL,503,47
+677,Polo Collar T-shirt,Next Look,Blue,S,499,76
+678,Polo Collar T-shirt,Next Look,Blue,M,499,61
+679,Polo Collar T-shirt,Next Look,Blue,L,499,95
+680,Polo Collar T-shirt,Next Look,Blue,XL,499,61
+681,Polo Collar T-shirt,Next Look,Brown,S,503,77
+682,Polo Collar T-shirt,Next Look,Brown,M,503,81
+683,Polo Collar T-shirt,Next Look,Brown,L,503,71
+684,Polo Collar T-shirt,Next Look,Brown,XL,503,61
+685,Polo Collar T-shirt,Next Look,,S,503,46
+686,Polo Collar T-shirt,Next Look,,M,503,23
+687,Polo Collar T-shirt,Next Look,,L,503,1
+688,Polo Collar T-shirt,Next Look,,XL,503,87
+689,Polo Collar T-shirt,Next Look,Grey,S,503,33
+690,Polo Collar T-shirt,Next Look,Grey,M,503,61
+691,Polo Collar T-shirt,Next Look,Grey,L,503,11
+692,Polo Collar T-shirt,Next Look,Grey,XL,503,76
+693,Polo Collar T-shirt,Next Look,,S,503,70
+694,Polo Collar T-shirt,Next Look,,M,503,24
+695,Polo Collar T-shirt,Next Look,,L,503,35
+696,Polo Collar T-shirt,Next Look,,XL,503,11
+697,Polo Collar T-shirt,Next Look,Red,S,503,75
+698,Polo Collar T-shirt,Next Look,Red,M,503,0
+699,Polo Collar T-shirt,Next Look,Red,L,503,20
+700,Polo Collar T-shirt,Next Look,Red,XL,503,36
+701,Polo Collar T-shirt,Next Look,White,S,503,10
+702,Polo Collar T-shirt,Next Look,White,M,503,72
+703,Polo Collar T-shirt,Next Look,White,L,503,51
+704,Polo Collar T-shirt,Next Look,White,XL,503,49
+705,Casual Shirt,Parx,Black,S,577,58
+706,Casual Shirt,Parx,Black,M,577,29
+707,Casual Shirt,Parx,Black,L,577,55
+708,Casual Shirt,Parx,Black,XL,577,45
+709,Casual Shirt,Parx,Blue,S,719,26
+710,Casual Shirt,Parx,Blue,M,719,81
+711,Casual Shirt,Parx,Blue,L,719,51
+712,Casual Shirt,Parx,Blue,XL,719,97
+713,Casual Shirt,Parx,Brown,S,779,50
+714,Casual Shirt,Parx,Brown,M,779,6
+715,Casual Shirt,Parx,Brown,L,779,70
+716,Casual Shirt,Parx,Brown,XL,779,67
+717,Casual Shirt,Parx,,S,577,84
+718,Casual Shirt,Parx,,M,577,15
+719,Casual Shirt,Parx,,L,577,74
+720,Casual Shirt,Parx,,XL,577,51
+721,Casual Shirt,Parx,,S,647,38
+722,Casual Shirt,Parx,,M,647,92
+723,Casual Shirt,Parx,,L,647,41
+724,Casual Shirt,Parx,,XL,647,74
+725,Casual Shirt,Parx,Green,S,664,50
+726,Casual Shirt,Parx,Green,M,664,0
+727,Casual Shirt,Parx,Green,L,664,85
+728,Casual Shirt,Parx,Green,XL,664,82
+729,Casual Shirt,Parx,Grey,S,759,57
+730,Casual Shirt,Parx,Grey,M,759,100
+731,Casual Shirt,Parx,Grey,L,759,18
+732,Casual Shirt,Parx,Grey,XL,759,39
+733,Casual Shirt,Parx,Maroon,S,717,61
+734,Casual Shirt,Parx,Maroon,M,717,27
+735,Casual Shirt,Parx,Maroon,L,717,45
+736,Casual Shirt,Parx,Maroon,XL,717,87
+737,Casual Shirt,Parx,,S,594,71
+738,Casual Shirt,Parx,,M,594,24
+739,Casual Shirt,Parx,,L,594,68
+740,Casual Shirt,Parx,,XL,594,81
+741,Casual Shirt,Parx,Navy Blue,S,739,26
+742,Casual Shirt,Parx,Navy Blue,M,739,9
+743,Casual Shirt,Parx,Navy Blue,L,739,32
+744,Casual Shirt,Parx,Navy Blue,XL,739,78
+745,Casual Shirt,Parx,,S,759,3
+746,Casual Shirt,Parx,,M,759,24
+747,Casual Shirt,Parx,,L,759,78
+748,Casual Shirt,Parx,,XL,759,27
+749,Casual Shirt,Parx,Orange,S,699,91
+750,Casual Shirt,Parx,Orange,M,699,92
+751,Casual Shirt,Parx,Orange,L,699,55
+752,Casual Shirt,Parx,Orange,XL,699,46
+753,Casual Shirt,Parx,Pink,S,739,84
+754,Casual Shirt,Parx,Pink,M,739,6
+755,Casual Shirt,Parx,Pink,L,739,40
+756,Casual Shirt,Parx,Pink,XL,739,52
+757,Casual Shirt,Parx,Purple,S,647,74
+758,Casual Shirt,Parx,Purple,M,647,5
+759,Casual Shirt,Parx,Purple,L,647,81
+760,Casual Shirt,Parx,Purple,XL,647,68
+761,Casual Shirt,Parx,Red,S,752,68
+762,Casual Shirt,Parx,Red,M,752,32
+763,Casual Shirt,Parx,Red,L,752,60
+764,Casual Shirt,Parx,Red,XL,752,60
+765,Casual Shirt,Parx,White,S,639,57
+766,Casual Shirt,Parx,White,M,639,43
+767,Casual Shirt,Parx,White,L,639,4
+768,Casual Shirt,Parx,White,XL,639,86
+769,Casual Shirt,Parx,Yellow,S,647,63
+770,Casual Shirt,Parx,Yellow,M,647,54
+771,Casual Shirt,Parx,Yellow,L,647,53
+772,Casual Shirt,Parx,Yellow,XL,647,43
+773,Polo Collar T-shirt,Parx,Black,S,599,9
+774,Polo Collar T-shirt,Parx,Black,M,599,76
+775,Polo Collar T-shirt,Parx,Black,L,599,36
+776,Polo Collar T-shirt,Parx,Black,XL,599,75
+777,Polo Collar T-shirt,Parx,Blue,S,384,84
+778,Polo Collar T-shirt,Parx,Blue,M,384,60
+779,Polo Collar T-shirt,Parx,Blue,L,384,21
+780,Polo Collar T-shirt,Parx,Blue,XL,384,77
+781,Polo Collar T-shirt,Parx,,S,1299,81
+782,Polo Collar T-shirt,Parx,,M,1299,52
+783,Polo Collar T-shirt,Parx,,L,1299,34
+784,Polo Collar T-shirt,Parx,,XL,1299,15
+785,Polo Collar T-shirt,Parx,Green,S,629,20
+786,Polo Collar T-shirt,Parx,Green,M,629,4
+787,Polo Collar T-shirt,Parx,Green,L,629,21
+788,Polo Collar T-shirt,Parx,Green,XL,629,74
+789,Polo Collar T-shirt,Parx,Grey,S,594,56
+790,Polo Collar T-shirt,Parx,Grey,M,594,71
+791,Polo Collar T-shirt,Parx,Grey,L,594,45
+792,Polo Collar T-shirt,Parx,Grey,XL,594,39
+793,Polo Collar T-shirt,Parx,Navy Blue,S,559,91
+794,Polo Collar T-shirt,Parx,Navy Blue,M,559,34
+795,Polo Collar T-shirt,Parx,Navy Blue,L,559,3
+796,Polo Collar T-shirt,Parx,Navy Blue,XL,559,60
+797,Polo Collar T-shirt,Parx,Pink,S,559,77
+798,Polo Collar T-shirt,Parx,Pink,M,559,28
+799,Polo Collar T-shirt,Parx,Pink,L,559,75
+800,Polo Collar T-shirt,Parx,Pink,XL,559,34
+801,Polo Collar T-shirt,Parx,Red,S,489,99
+802,Polo Collar T-shirt,Parx,Red,M,489,23
+803,Polo Collar T-shirt,Parx,Red,L,489,97
+804,Polo Collar T-shirt,Parx,Red,XL,489,6
+805,Polo Collar T-shirt,Parx,White,S,679,93
+806,Polo Collar T-shirt,Parx,White,M,679,15
+807,Polo Collar T-shirt,Parx,White,L,679,73
+808,Polo Collar T-shirt,Parx,White,XL,679,88
+809,Regular Trousers,Parx,Beige,S,919,84
+810,Regular Trousers,Parx,Beige,M,919,69
+811,Regular Trousers,Parx,Beige,L,919,66
+812,Regular Trousers,Parx,Beige,XL,919,61
+813,Regular Trousers,Parx,Black,S,854,43
+814,Regular Trousers,Parx,Black,M,854,88
+815,Regular Trousers,Parx,Black,L,854,86
+816,Regular Trousers,Parx,Black,XL,854,11
+817,Regular Trousers,Parx,Blue,S,879,92
+818,Regular Trousers,Parx,Blue,M,879,77
+819,Regular Trousers,Parx,Blue,L,879,15
+820,Regular Trousers,Parx,Blue,XL,879,54
+821,Regular Trousers,Parx,Brown,S,664,46
+822,Regular Trousers,Parx,Brown,M,664,85
+823,Regular Trousers,Parx,Brown,L,664,31
+824,Regular Trousers,Parx,Brown,XL,664,89
+825,Regular Trousers,Parx,,S,959,6
+826,Regular Trousers,Parx,,M,959,87
+827,Regular Trousers,Parx,,L,959,94
+828,Regular Trousers,Parx,,XL,959,99
+829,Regular Trousers,Parx,Green,S,804,73
+830,Regular Trousers,Parx,Green,M,804,100
+831,Regular Trousers,Parx,Green,L,804,73
+832,Regular Trousers,Parx,Green,XL,804,71
+833,Regular Trousers,Parx,Grey,S,919,18
+834,Regular Trousers,Parx,Grey,M,919,39
+835,Regular Trousers,Parx,Grey,L,919,85
+836,Regular Trousers,Parx,Grey,XL,919,4
+837,Regular Trousers,Parx,Khaki,S,839,67
+838,Regular Trousers,Parx,Khaki,M,839,33
+839,Regular Trousers,Parx,Khaki,L,839,52
+840,Regular Trousers,Parx,Khaki,XL,839,49
+841,Regular Trousers,Parx,Navy Blue,S,804,96
+842,Regular Trousers,Parx,Navy Blue,M,804,13
+843,Regular Trousers,Parx,Navy Blue,L,804,85
+844,Regular Trousers,Parx,Navy Blue,XL,804,94
+845,Regular Trousers,Parx,,S,874,65
+846,Regular Trousers,Parx,,M,874,41
+847,Regular Trousers,Parx,,L,874,10
+848,Regular Trousers,Parx,,XL,874,96
+849,Round-Neck T-shirt,Parx,Black,S,489,88
+850,Round-Neck T-shirt,Parx,Black,M,489,33
+851,Round-Neck T-shirt,Parx,Black,L,489,75
+852,Round-Neck T-shirt,Parx,Black,XL,489,15
+853,Round-Neck T-shirt,Parx,Green,S,503,94
+854,Round-Neck T-shirt,Parx,Green,M,503,62
+855,Round-Neck T-shirt,Parx,Green,L,503,41
+856,Round-Neck T-shirt,Parx,Green,XL,503,96
+857,Round-Neck T-shirt,Parx,Red,S,489,76
+858,Round-Neck T-shirt,Parx,Red,M,489,31
+859,Round-Neck T-shirt,Parx,Red,L,489,49
+860,Round-Neck T-shirt,Parx,Red,XL,489,33
+861,Round-Neck T-shirt,Parx,White,S,349,95
+862,Round-Neck T-shirt,Parx,White,M,349,93
+863,Round-Neck T-shirt,Parx,White,L,349,87
+864,Round-Neck T-shirt,Parx,White,XL,349,61
+865,Casual Shirt,U.S. Polo Assn.,Blue,S,1149,10
+866,Casual Shirt,U.S. Polo Assn.,Blue,M,1149,66
+867,Casual Shirt,U.S. Polo Assn.,Blue,L,1149,83
+868,Casual Shirt,U.S. Polo Assn.,Blue,XL,1149,94
+869,Casual Shirt,U.S. Polo Assn.,Navy Blue,S,1609,78
+870,Casual Shirt,U.S. Polo Assn.,Navy Blue,M,1609,12
+871,Casual Shirt,U.S. Polo Assn.,Navy Blue,L,1609,81
+872,Casual Shirt,U.S. Polo Assn.,Navy Blue,XL,1609,20
+873,Casual Shirt,U.S. Polo Assn.,White,S,1319,34
+874,Casual Shirt,U.S. Polo Assn.,White,M,1319,2
+875,Casual Shirt,U.S. Polo Assn.,White,L,1319,17
+876,Casual Shirt,U.S. Polo Assn.,White,XL,1319,95
+877,Polo Collar T-shirt,U.S. Polo Assn.,Blue,S,949,88
+878,Polo Collar T-shirt,U.S. Polo Assn.,Blue,M,949,19
+879,Polo Collar T-shirt,U.S. Polo Assn.,Blue,L,949,61
+880,Polo Collar T-shirt,U.S. Polo Assn.,Blue,XL,949,28
+881,Polo Collar T-shirt,U.S. Polo Assn.,Grey,S,949,65
+882,Polo Collar T-shirt,U.S. Polo Assn.,Grey,M,949,51
+883,Polo Collar T-shirt,U.S. Polo Assn.,Grey,L,949,6
+884,Polo Collar T-shirt,U.S. Polo Assn.,Grey,XL,949,84
+885,Polo Collar T-shirt,U.S. Polo Assn.,Navy Blue,S,1199,75
+886,Polo Collar T-shirt,U.S. Polo Assn.,Navy Blue,M,1199,42
+887,Polo Collar T-shirt,U.S. Polo Assn.,Navy Blue,L,1199,54
+888,Polo Collar T-shirt,U.S. Polo Assn.,Navy Blue,XL,1199,1
+889,Polo Collar T-shirt,U.S. Polo Assn.,Red,S,1329,90
+890,Polo Collar T-shirt,U.S. Polo Assn.,Red,M,1329,75
+891,Polo Collar T-shirt,U.S. Polo Assn.,Red,L,1329,82
+892,Polo Collar T-shirt,U.S. Polo Assn.,Red,XL,1329,41
+893,Polo Collar T-shirt,U.S. Polo Assn.,White,S,949,28
+894,Polo Collar T-shirt,U.S. Polo Assn.,White,M,949,72
+895,Polo Collar T-shirt,U.S. Polo Assn.,White,L,949,95
+896,Polo Collar T-shirt,U.S. Polo Assn.,White,XL,949,68
