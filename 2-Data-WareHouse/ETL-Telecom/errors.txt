@@ -1,7 +1,8 @@
-[OLE DB Destination [39]] Error: SSIS Error Code DTS_E_OLEDBERROR.  An OLE DB error has occurred. Error code: 0x80004005.
-An OLE DB record is available.  Source: "Microsoft OLE DB Provider for SQL Server"  Hresult: 0x80004005  Description: "The statement has been terminated.".
-An OLE DB record is available.  Source: "Microsoft OLE DB Provider for SQL Server"  Hresult: 0x80004005  Description: "Cannot insert the value NULL into column 'tac', table 'ETL_Telecom.dbo.fact_transaction'; column does not allow nulls. INSERT fails.".
+[Fact_transaction [39]] Error: There was an error with Fact_transaction.Inputs[OLE DB Destination Input].Columns[imsi] on Fact_transaction.Inputs[OLE DB Destination Input]. The column status returned was: "The value violated the integrity constraints for the column.".
+[Fact_transaction [39]] Error: SSIS Error Code DTS_E_INDUCEDTRANSFORMFAILUREONERROR.  The "Fact_transaction.Inputs[OLE DB Destination Input]" failed because error code 0xC020907D occurred, and the error row disposition on "Fact_transaction.Inputs[OLE DB Destination Input]" specifies failure on error. An error occurred on the specified object of the specified component.  There may be error messages posted before this with more information about the failure.
+[SSIS.Pipeline] Error: SSIS Error Code DTS_E_PROCESSINPUTFAILED.  The ProcessInput method on component "Fact_transaction" (39) failed with error code 0xC0209029 while processing input "OLE DB Destination Input" (52). The identified component returned an error from the ProcessInput method. The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  There may be error messages posted before this with more information about the failure.
+[Fact_transaction [39]] Error: SSIS Error Code DTS_E_OLEDBERROR.  An OLE DB error has occurred. Error code: 0x80004005.
+An OLE DB record is available.  Source: "Microsoft OLE DB Provider for SQL Server"  Hresult: 0x80004005  Description: "Unspecified error".
 
 
-
-
+[Derived Column [80]] Error: The "Derived Column" failed because truncation occurred, and the truncation row disposition on "Derived Column.Inputs[Derived Column Input].Columns[event_type]" specifies failure on truncation. A truncation error occurred on the specified object of the specified component.
